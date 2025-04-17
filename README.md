@@ -28,12 +28,10 @@ I'm a **B.Tech student in Artificial Intelligence and Machine Learning** at **D.
 - **Catnip Infotech Pvt Ltd Hackathon:** Runner-up — Built a recommendation system
 - **Hack2Infinity Hackathon:** 'Best in AI Category' for MindCompanion, a mental health solution
 
-## **👥 Co-curricular Activities**
-- **DJS COMPUTE:** Data Analysis and Machine Learning mentee (08/2024 - present)
-- **DJS MUNSOC:** Delegate Affairs - Organized Model United Nations conferences (03/2024 - 02/2025)
+
 
 ## **🌐 Socials:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keyush-nisar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyush-n-017a3a2b3/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nisaral)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nisarkeyush3@gmail.com)
 
