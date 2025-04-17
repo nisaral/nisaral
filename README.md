@@ -1,5 +1,5 @@
 # **👨‍💻 Keyush Nisar**
-**AI/ML Developer** | **Data Scientist** | **2X Expert** | **GenAI Researcher**
+**AI/ML Developer** | **Data Scientist** | **2X Kaggle Expert** | **GenAI Researcher**
 
 ## About Me
 I'm a **B.Tech student in Artificial Intelligence and Machine Learning** at **D.J Sanghvi College of Engineering, Mumbai University** (2023-2027). I'm deeply passionate about **Machine Learning, GenAI, and Data Science** and am constantly exploring ways to innovate and contribute to impactful projects.
