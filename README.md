@@ -10,17 +10,6 @@ I'm a **B.Tech student in Artificial Intelligence and Machine Learning** at **D.
 * 🤝 Looking to collaborate on **cutting-edge AI research and applications**
 * 💬 Ask me about **GenAI, NLP, ML/DL, and multilingual models**!
 
-## **🌐 Experience**
-
-**GenAI Research Intern** | **COE-CNDS LABS** | *02/2025 - present*
-- Developed IndicXLMR-LoRA, a multilingual model for 23 Indic languages optimizing XLM-RoBERTa with LoRA fine-tuning
-- Built a continual learning pipeline with Dask-preprocessed multilingual datasets for cybersecurity NLP tasks
-- **Focus Areas:** GenAI (LLMs, Fine-tuning, LoRA), NLP, ML/DL, Multilingual Dataset Development
-
-**AI/ML Intern** | **Ultraceuticals** | *12/2024 - present*
-- Working on an AI-based drug discovery platform to identify potential drug candidates
-- Developing models to analyze complex datasets for drug repurposing efforts
-- **Focus Areas:** Machine Learning, Deep Learning, Computational Biology, Graph Neural Networks (GNNs)
 
 ## **🏆 Achievements**
 - **Nexus Kaggle Competition:** Second Runner-up — Achieved an F1 score of 99.56 in drug status prediction
