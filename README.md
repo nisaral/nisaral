@@ -6,7 +6,7 @@ I'm a **B.Tech student in Artificial Intelligence and Machine Learning** at **D.
 
 * 🎓 Currently maintaining a **CGPA of 8/10** in my AI/ML program
 * 🔬 Working as a **GenAI Research Intern at COE-CNDS LABS** developing multilingual models for Indic languages
-* 💊 Also serving as an **AI/ML Intern at Ultraceuticals** focusing on drug RePurposing
+* 💊 served as an **AI/ML Intern at Ultraceuticals** focusing on drug RePurposing
 * 🤝 Looking to collaborate on **cutting-edge AI research and applications**
 * 💬 Ask me about **GenAI, NLP, ML/DL, and multilingual models**!
 
