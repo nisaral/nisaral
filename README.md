@@ -4,7 +4,6 @@
 ## About Me
 I'm a **B.Tech student in Artificial Intelligence and Machine Learning** at **D.J Sanghvi College of Engineering, Mumbai University** (2023-2027). I'm deeply passionate about **Machine Learning, GenAI, and Data Science** and am constantly exploring ways to innovate and contribute to impactful projects.
 
-* Currently maintaining a **CGPA of 8/10** in my AI/ML program
 * Working as a **GenAI Research Intern at COE-CNDS LABS** developing multilingual models for Indic languages
 * served as an **AI/ML Intern at Ultraceuticals** focusing on drug RePurposing
 * Looking to collaborate on **cutting-edge AI research and applications**
