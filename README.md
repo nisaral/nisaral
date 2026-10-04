@@ -1,6 +1,6 @@
 # **👨‍💻 Keyush Nisar**
 ## About Me
-Architecting distributed systems to survive my own AI models. **Researcher** | **MLOps** | **AI/ML**
+Architecting distributed systems to survive my own AI models. 
 
 ## **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyush-n-017a3a2b3/) 
